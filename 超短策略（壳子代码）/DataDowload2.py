@@ -9,7 +9,7 @@ from tqdm import tqdm
 获取历史数据
 """
 
-mytoken = ''
+mytoken =  'e3e6e7828759ca23ba1ad4e129c34f958a9bb8c27ba75b34ab9e9b91'
 ts.set_token(mytoken)
 ts.set_token(mytoken)
 save_path = 'stock'
